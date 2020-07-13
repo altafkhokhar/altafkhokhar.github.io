@@ -3,10 +3,10 @@
   "description": "Full Stack developer",
   "display": "fullscreen",
   "icons": [
-    {
-      "src": "icon/cat-icon.png",
+   {
+        "src":"Images/HomeScreenIcon.png",
       "sizes": "192x192",
-      "type": "Profile.jpg"
+      "type": "image/png"
     }
   ],
   "name": "Developer",
